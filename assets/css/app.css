@@ -418,7 +418,7 @@ h1 span{
     width:50%;
     height:50%;
     overflow:hidden;
-    border:0.3rem solid #fff;
+    border:0.3rem solid #ffffffba;
     position:absolute;
     left:50%;
     top:50%;
@@ -435,6 +435,7 @@ h1 span{
     border:0.3rem solid #fff;
     padding:3rem 8rem;
     background-color:#fff;
+    opacity: 0.7;
 }
 /**
  * bug:
